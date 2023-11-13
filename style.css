@@ -51,6 +51,10 @@ font-family: "Poppins", sans-serif;
 box-shadow: 0px 0px 168px 19px #2d6a4f;
 }
 
+.operation:focus {
+  background-color:aquamarine;
+}
+
 .BtnEnvoyer {
   font-size: 1.5em;
   margin-left: 0.5em;
